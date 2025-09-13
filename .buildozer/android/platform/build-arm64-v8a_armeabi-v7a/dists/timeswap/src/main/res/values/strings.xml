@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TimeSwap</string>
-    <string name="private_version">eaa0fa428db252dd40571f82b0138955f09dea45</string>
+    <string name="private_version">38e9ed3ce4136baf623e68e2607ad3ea947f7ca0</string>
     <string name="presplash_color">#000000</string>
     <string name="urlScheme">kivy</string>
 </resources>
